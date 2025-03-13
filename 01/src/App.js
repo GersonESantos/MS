@@ -8,10 +8,7 @@ import Rodape from './componentes/Rodape';
 function App() {
   return (
     <div>
-      <Topo />
-      <Banner />
-      <Principal />
-      <Rodape />
+     <h1>Ola Mundo</h1>
     </div>
   );
 }
